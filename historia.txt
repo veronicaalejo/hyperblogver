@@ -1,1 +1,2 @@
-Este es un ejemplo de git para los proyectos de vero
+Este es un ejemplo de git para los proyectos de vero modificado
+probando codigo de ejemplo
