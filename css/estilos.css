@@ -5,3 +5,18 @@ body
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+#post
+{
+    border: springgreen;
+    border-radius: 1em;
+    color: rgb(14, 12, 11);
+    font-weight: bold;
+    padding: 0.5em;
+}
+#cabecera
+{
+    background-color: seagreen;
+    color: seashell;
+    font-weight: bold;
+    padding: 0.5em;
+}
