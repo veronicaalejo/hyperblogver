@@ -1,6 +1,7 @@
-header
+body
 {
     color: purple;
-    font-size: 50%;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
