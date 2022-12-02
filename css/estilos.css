@@ -7,17 +7,13 @@ body
 }
 #contenido2
 {
-  font-size: 40px;
-  color: brown;  
-}
-#post
-{
     border: springgreen;
     border-radius: 1em;
     color: rgb(14, 12, 11);
     font-weight: bold;
-    padding: 0.5em;
+    padding: 0.5em; 
 }
+
 #cabecera
 {
     background-color: seagreen;
