@@ -12,12 +12,12 @@ body
     color: rgb(14, 12, 11);
     font-weight: bold;
     padding: 0.5em; 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #cabecera
 {
-    background-color: seagreen;
+    background-color: rgb(138, 79, 13);
     color: seashell;
     font-weight: bold;
     padding: 0.5em;
