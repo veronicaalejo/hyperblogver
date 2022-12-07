@@ -7,7 +7,7 @@ body
 }
 #post
 {
-    border: rgb(196, 39, 104);
+    background-color: rgb(196, 39, 104);
     border-radius: 1em;
     color: rgb(14, 12, 11);
     font-weight: bold;
